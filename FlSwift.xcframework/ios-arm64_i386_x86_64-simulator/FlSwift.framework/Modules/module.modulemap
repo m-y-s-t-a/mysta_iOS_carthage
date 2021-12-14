@@ -1,0 +1,11 @@
+framework module FlSwift {
+  umbrella header "FlSwift.h"
+
+  export *
+  module * { export * }
+}
+
+module FlSwift.Swift {
+    header "FlSwift-Swift.h"
+    requires objc
+}
