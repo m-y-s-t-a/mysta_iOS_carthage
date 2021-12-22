@@ -254,6 +254,19 @@ SWIFT_CLASS("_TtC12MarqueeLabel12MarqueeLabel")
 /// seealso:
 /// labelize
 @property (nonatomic) IBInspectable BOOL holdScrolling;
+/// A boolean property that sets whether the <code>MarqueeLabel</code> should scroll, even if the specificed test string
+/// can be fully contained within the label frame.
+/// If this property is set to <code>true</code>, the <code>MarqueeLabel</code> will automatically scroll regardless of text string
+/// length, although this can still be overridden by the <code>tapToScroll</code> and <code>holdScrolling</code> properties.
+/// Defaults to <code>false</code>.
+/// warning:
+/// Forced scrolling may have unexpected edge cases or have unusual characteristics compared to the
+/// ‘normal’ scrolling feature.
+/// seealso:
+/// holdScrolling
+/// seealso:
+/// tapToScroll
+@property (nonatomic) IBInspectable BOOL forceScrolling;
 /// A boolean property that sets whether the <code>MarqueeLabel</code> should only begin a scroll when tapped.
 /// If this property is set to <code>true</code>, the <code>MarqueeLabel</code> will only begin a scroll animation cycle when tapped. The label will
 /// not automatically being a scroll. This setting overrides the setting of the <code>holdScrolling</code> property.
@@ -351,8 +364,6 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) Class _Nonnull layer
 @property (nonatomic, getter=isHighlighted) BOOL highlighted;
 @property (nonatomic, getter=isEnabled) BOOL enabled;
 @property (nonatomic) NSInteger numberOfLines;
-@property (nonatomic) BOOL adjustsFontSizeToFitWidth;
-@property (nonatomic) CGFloat minimumScaleFactor;
 @property (nonatomic) UIBaselineAdjustment baselineAdjustment;
 @property (nonatomic, readonly) CGSize intrinsicContentSize;
 @property (nonatomic, strong) UIColor * _Null_unspecified tintColor;
@@ -360,6 +371,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) Class _Nonnull layer
 @property (nonatomic) UIViewContentMode contentMode;
 @property (nonatomic) BOOL isAccessibilityElement;
 @end
+
 
 
 #if __has_attribute(external_source_symbol)
@@ -623,6 +635,19 @@ SWIFT_CLASS("_TtC12MarqueeLabel12MarqueeLabel")
 /// seealso:
 /// labelize
 @property (nonatomic) IBInspectable BOOL holdScrolling;
+/// A boolean property that sets whether the <code>MarqueeLabel</code> should scroll, even if the specificed test string
+/// can be fully contained within the label frame.
+/// If this property is set to <code>true</code>, the <code>MarqueeLabel</code> will automatically scroll regardless of text string
+/// length, although this can still be overridden by the <code>tapToScroll</code> and <code>holdScrolling</code> properties.
+/// Defaults to <code>false</code>.
+/// warning:
+/// Forced scrolling may have unexpected edge cases or have unusual characteristics compared to the
+/// ‘normal’ scrolling feature.
+/// seealso:
+/// holdScrolling
+/// seealso:
+/// tapToScroll
+@property (nonatomic) IBInspectable BOOL forceScrolling;
 /// A boolean property that sets whether the <code>MarqueeLabel</code> should only begin a scroll when tapped.
 /// If this property is set to <code>true</code>, the <code>MarqueeLabel</code> will only begin a scroll animation cycle when tapped. The label will
 /// not automatically being a scroll. This setting overrides the setting of the <code>holdScrolling</code> property.
@@ -720,8 +745,6 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) Class _Nonnull layer
 @property (nonatomic, getter=isHighlighted) BOOL highlighted;
 @property (nonatomic, getter=isEnabled) BOOL enabled;
 @property (nonatomic) NSInteger numberOfLines;
-@property (nonatomic) BOOL adjustsFontSizeToFitWidth;
-@property (nonatomic) CGFloat minimumScaleFactor;
 @property (nonatomic) UIBaselineAdjustment baselineAdjustment;
 @property (nonatomic, readonly) CGSize intrinsicContentSize;
 @property (nonatomic, strong) UIColor * _Null_unspecified tintColor;
@@ -729,6 +752,7 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly) Class _Nonnull layer
 @property (nonatomic) UIViewContentMode contentMode;
 @property (nonatomic) BOOL isAccessibilityElement;
 @end
+
 
 
 #if __has_attribute(external_source_symbol)

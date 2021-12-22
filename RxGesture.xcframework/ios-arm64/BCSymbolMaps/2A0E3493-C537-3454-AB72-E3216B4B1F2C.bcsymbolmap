@@ -2,7 +2,7 @@ BCSymbolMap Version: 2.0
 Apple clang version 13.0.0 (clang-1300.0.29.30)
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.2.sdk
 iPhoneOS15.2.sdk
-/Users/s.hirano/Library/Caches/org.carthage.CarthageKit/DerivedData/13.2_13C90/RxGesture/4.0.2/Build/Intermediates.noindex/ArchiveIntermediates/RxGesture-iOS/IntermediateBuildFilesPath/RxGesture.build/Release-iphoneos/RxGesture-iOS.build/DerivedSources/RxGesture_vers.c
+/Users/s.hirano/Library/Caches/org.carthage.CarthageKit/DerivedData/13.2_13C90/RxGesture/4.0.3/Build/Intermediates.noindex/ArchiveIntermediates/RxGesture-iOS/IntermediateBuildFilesPath/RxGesture.build/Release-iphoneos/RxGesture-iOS.build/DerivedSources/RxGesture_vers.c
 /Users/s.hirano/mysta_iOS/Carthage/Checkouts/RxGesture/RxGesture
 _$s9RxGesture07GenericaB18RecognizerDelegateC20touchReceptionPolicyAA0bdeH0Vyx_So7UITouchCtGvpfiTm
 _$sSo12UITouchPhaseVSQSCSQ2eeoiySbx_xtFZTW

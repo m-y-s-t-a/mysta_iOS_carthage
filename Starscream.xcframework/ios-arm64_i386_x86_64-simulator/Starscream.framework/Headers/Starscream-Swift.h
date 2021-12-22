@@ -211,18 +211,23 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 @class NSStream;
 
-SWIFT_CLASS("_TtC10Starscream16FoundationStream")
-@interface FoundationStream : NSObject <NSStreamDelegate>
-/// Delegate for the stream methods. Processes incoming bytes
+SWIFT_CLASS("_TtC10Starscream19FoundationTransport")
+@interface FoundationTransport : NSObject <NSStreamDelegate>
 - (void)stream:(NSStream * _Nonnull)aStream handleEvent:(NSStreamEvent)eventCode;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
-
-SWIFT_CLASS("_TtC10Starscream9WebSocket")
-@interface WebSocket : NSObject <NSStreamDelegate>
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+@class NSURLSession;
+@class NSURLSessionWebSocketTask;
+@class NSString;
+@class NSData;
+
+SWIFT_CLASS("_TtC10Starscream12NativeEngine") SWIFT_AVAILABILITY(tvos,introduced=13.0) SWIFT_AVAILABILITY(watchos,introduced=6.0) SWIFT_AVAILABILITY(ios,introduced=13.0) SWIFT_AVAILABILITY(macos,introduced=10.15)
+@interface NativeEngine : NSObject <NSURLSessionDataDelegate, NSURLSessionWebSocketDelegate>
+- (void)URLSession:(NSURLSession * _Nonnull)session webSocketTask:(NSURLSessionWebSocketTask * _Nonnull)webSocketTask didOpenWithProtocol:(NSString * _Nullable)protocol;
+- (void)URLSession:(NSURLSession * _Nonnull)session webSocketTask:(NSURLSessionWebSocketTask * _Nonnull)webSocketTask didCloseWithCode:(NSURLSessionWebSocketCloseCode)closeCode reason:(NSData * _Nullable)reason;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 #if __has_attribute(external_source_symbol)
@@ -443,18 +448,23 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 @class NSStream;
 
-SWIFT_CLASS("_TtC10Starscream16FoundationStream")
-@interface FoundationStream : NSObject <NSStreamDelegate>
-/// Delegate for the stream methods. Processes incoming bytes
+SWIFT_CLASS("_TtC10Starscream19FoundationTransport")
+@interface FoundationTransport : NSObject <NSStreamDelegate>
 - (void)stream:(NSStream * _Nonnull)aStream handleEvent:(NSStreamEvent)eventCode;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
-
-SWIFT_CLASS("_TtC10Starscream9WebSocket")
-@interface WebSocket : NSObject <NSStreamDelegate>
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+@class NSURLSession;
+@class NSURLSessionWebSocketTask;
+@class NSString;
+@class NSData;
+
+SWIFT_CLASS("_TtC10Starscream12NativeEngine") SWIFT_AVAILABILITY(tvos,introduced=13.0) SWIFT_AVAILABILITY(watchos,introduced=6.0) SWIFT_AVAILABILITY(ios,introduced=13.0) SWIFT_AVAILABILITY(macos,introduced=10.15)
+@interface NativeEngine : NSObject <NSURLSessionDataDelegate, NSURLSessionWebSocketDelegate>
+- (void)URLSession:(NSURLSession * _Nonnull)session webSocketTask:(NSURLSessionWebSocketTask * _Nonnull)webSocketTask didOpenWithProtocol:(NSString * _Nullable)protocol;
+- (void)URLSession:(NSURLSession * _Nonnull)session webSocketTask:(NSURLSessionWebSocketTask * _Nonnull)webSocketTask didCloseWithCode:(NSURLSessionWebSocketCloseCode)closeCode reason:(NSData * _Nullable)reason;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 #if __has_attribute(external_source_symbol)
@@ -675,18 +685,23 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 @class NSStream;
 
-SWIFT_CLASS("_TtC10Starscream16FoundationStream")
-@interface FoundationStream : NSObject <NSStreamDelegate>
-/// Delegate for the stream methods. Processes incoming bytes
+SWIFT_CLASS("_TtC10Starscream19FoundationTransport")
+@interface FoundationTransport : NSObject <NSStreamDelegate>
 - (void)stream:(NSStream * _Nonnull)aStream handleEvent:(NSStreamEvent)eventCode;
-- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
-@end
-
-
-SWIFT_CLASS("_TtC10Starscream9WebSocket")
-@interface WebSocket : NSObject <NSStreamDelegate>
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
+@class NSURLSession;
+@class NSURLSessionWebSocketTask;
+@class NSString;
+@class NSData;
+
+SWIFT_CLASS("_TtC10Starscream12NativeEngine") SWIFT_AVAILABILITY(tvos,introduced=13.0) SWIFT_AVAILABILITY(watchos,introduced=6.0) SWIFT_AVAILABILITY(ios,introduced=13.0) SWIFT_AVAILABILITY(macos,introduced=10.15)
+@interface NativeEngine : NSObject <NSURLSessionDataDelegate, NSURLSessionWebSocketDelegate>
+- (void)URLSession:(NSURLSession * _Nonnull)session webSocketTask:(NSURLSessionWebSocketTask * _Nonnull)webSocketTask didOpenWithProtocol:(NSString * _Nullable)protocol;
+- (void)URLSession:(NSURLSession * _Nonnull)session webSocketTask:(NSURLSessionWebSocketTask * _Nonnull)webSocketTask didCloseWithCode:(NSURLSessionWebSocketCloseCode)closeCode reason:(NSData * _Nullable)reason;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 @end
 
 #if __has_attribute(external_source_symbol)

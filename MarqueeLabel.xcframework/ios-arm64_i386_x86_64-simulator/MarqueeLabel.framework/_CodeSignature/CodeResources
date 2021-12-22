@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/MarqueeLabel-Swift.h</key>
 		<data>
-		HIFDryj0K+eDqwObxIdBq5Kc/zA=
+		n4q3iPR3lZWsyGRsSM/j0oI2yB8=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -14,75 +14,75 @@
 		</data>
 		<key>Modules/MarqueeLabel.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		8mU5zxr8iJLEnjMXG7JyIKrSWzs=
+		RqvyIoYgaj5I/TYgr4YXQa7nYRA=
 		</data>
 		<key>Modules/MarqueeLabel.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		8mU5zxr8iJLEnjMXG7JyIKrSWzs=
+		RqvyIoYgaj5I/TYgr4YXQa7nYRA=
 		</data>
 		<key>Modules/MarqueeLabel.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		m1g73go4yNo7BIlHejWLwV1TyCQ=
+		hrzc+IyagivR6s67v376n1K9Jws=
 		</data>
 		<key>Modules/MarqueeLabel.swiftmodule/Project/i386.swiftsourceinfo</key>
 		<data>
-		m1g73go4yNo7BIlHejWLwV1TyCQ=
+		hrzc+IyagivR6s67v376n1K9Jws=
 		</data>
 		<key>Modules/MarqueeLabel.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		9EfSY6DnaYMPwfWV5SoXdJVLLxU=
+		kYyHdSlwm77zNxTrGgvQintJBgg=
 		</data>
 		<key>Modules/MarqueeLabel.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		9EfSY6DnaYMPwfWV5SoXdJVLLxU=
+		kYyHdSlwm77zNxTrGgvQintJBgg=
 		</data>
 		<key>Modules/MarqueeLabel.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		N9WAVKq0ds4Dlbv3F/vCFkfffzs=
+		39UrgAxr0o5LbAGW8LVWtJQTNTw=
 		</data>
 		<key>Modules/MarqueeLabel.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		WOyjnGJh3QSh+khnspoDewNbDP8=
+		VQ8eepDZ9vMsaQdcLlYDIVxj0WM=
 		</data>
 		<key>Modules/MarqueeLabel.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		N9WAVKq0ds4Dlbv3F/vCFkfffzs=
+		39UrgAxr0o5LbAGW8LVWtJQTNTw=
 		</data>
 		<key>Modules/MarqueeLabel.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		WOyjnGJh3QSh+khnspoDewNbDP8=
+		VQ8eepDZ9vMsaQdcLlYDIVxj0WM=
 		</data>
 		<key>Modules/MarqueeLabel.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		IOxb2hh7x3+av5fAvjG1IPAcmAQ=
+		HKVYfQmK8Wilhx22Goz4GI1Iwsw=
 		</data>
 		<key>Modules/MarqueeLabel.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		xb5wL3DQwTmgLl4+OOA8pAoHjds=
+		rV7PVds51UV52iB3pNeNKVIf3pM=
 		</data>
 		<key>Modules/MarqueeLabel.swiftmodule/i386.swiftdoc</key>
 		<data>
-		IOxb2hh7x3+av5fAvjG1IPAcmAQ=
+		HKVYfQmK8Wilhx22Goz4GI1Iwsw=
 		</data>
 		<key>Modules/MarqueeLabel.swiftmodule/i386.swiftmodule</key>
 		<data>
-		xb5wL3DQwTmgLl4+OOA8pAoHjds=
+		rV7PVds51UV52iB3pNeNKVIf3pM=
 		</data>
 		<key>Modules/MarqueeLabel.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		0NVTuNXA0Db3UcfxdMMUJOLZtd4=
+		zISVrAYjGCxntVTtCeglNoJ3p/U=
 		</data>
 		<key>Modules/MarqueeLabel.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		docAaBmivRzVxceHeEvSEuFYPf8=
+		66szu1VVei5s28C5+WtpKLXn22k=
 		</data>
 		<key>Modules/MarqueeLabel.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		0NVTuNXA0Db3UcfxdMMUJOLZtd4=
+		zISVrAYjGCxntVTtCeglNoJ3p/U=
 		</data>
 		<key>Modules/MarqueeLabel.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		docAaBmivRzVxceHeEvSEuFYPf8=
+		66szu1VVei5s28C5+WtpKLXn22k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -95,209 +95,209 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HIFDryj0K+eDqwObxIdBq5Kc/zA=
+			n4q3iPR3lZWsyGRsSM/j0oI2yB8=
 			</data>
 			<key>hash2</key>
 			<data>
-			/oPBdTvpdd19goMJdWbfozxSVvDHwP1bHAuEUiY4F5U=
+			gP4Ksb31mKepkRzYciScRqZTho1jLt0nt6XoP9UGT48=
 			</data>
 		</dict>
 		<key>Modules/MarqueeLabel.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8mU5zxr8iJLEnjMXG7JyIKrSWzs=
+			RqvyIoYgaj5I/TYgr4YXQa7nYRA=
 			</data>
 			<key>hash2</key>
 			<data>
-			IWhk6kUmN7bSI95zJFpOs6RObS8e2Xr98M7OVeN6hEM=
+			oex2jwQGFFEARqz1DzIoaIyJz2HrEtH2MvhyHnlsHo0=
 			</data>
 		</dict>
 		<key>Modules/MarqueeLabel.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			8mU5zxr8iJLEnjMXG7JyIKrSWzs=
+			RqvyIoYgaj5I/TYgr4YXQa7nYRA=
 			</data>
 			<key>hash2</key>
 			<data>
-			IWhk6kUmN7bSI95zJFpOs6RObS8e2Xr98M7OVeN6hEM=
+			oex2jwQGFFEARqz1DzIoaIyJz2HrEtH2MvhyHnlsHo0=
 			</data>
 		</dict>
 		<key>Modules/MarqueeLabel.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			m1g73go4yNo7BIlHejWLwV1TyCQ=
+			hrzc+IyagivR6s67v376n1K9Jws=
 			</data>
 			<key>hash2</key>
 			<data>
-			9FGScwxCypPc0xYb1H519i4Y+7CfTJtxBSvMB+UghPo=
+			3zB+fCgp416VwQoDDqPA+E9AhVcQ3TgAyT9D1ZfDwdk=
 			</data>
 		</dict>
 		<key>Modules/MarqueeLabel.swiftmodule/Project/i386.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			m1g73go4yNo7BIlHejWLwV1TyCQ=
+			hrzc+IyagivR6s67v376n1K9Jws=
 			</data>
 			<key>hash2</key>
 			<data>
-			9FGScwxCypPc0xYb1H519i4Y+7CfTJtxBSvMB+UghPo=
+			3zB+fCgp416VwQoDDqPA+E9AhVcQ3TgAyT9D1ZfDwdk=
 			</data>
 		</dict>
 		<key>Modules/MarqueeLabel.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9EfSY6DnaYMPwfWV5SoXdJVLLxU=
+			kYyHdSlwm77zNxTrGgvQintJBgg=
 			</data>
 			<key>hash2</key>
 			<data>
-			7Tsr0Z113VoBqQOYWpU8tj1LyBZYHWj9NkLbjcIKW/k=
+			qmJjjfg0HRg/AGxlte95YmsUvPNkdGNQGUjsWEyel6c=
 			</data>
 		</dict>
 		<key>Modules/MarqueeLabel.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			9EfSY6DnaYMPwfWV5SoXdJVLLxU=
+			kYyHdSlwm77zNxTrGgvQintJBgg=
 			</data>
 			<key>hash2</key>
 			<data>
-			7Tsr0Z113VoBqQOYWpU8tj1LyBZYHWj9NkLbjcIKW/k=
+			qmJjjfg0HRg/AGxlte95YmsUvPNkdGNQGUjsWEyel6c=
 			</data>
 		</dict>
 		<key>Modules/MarqueeLabel.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			N9WAVKq0ds4Dlbv3F/vCFkfffzs=
+			39UrgAxr0o5LbAGW8LVWtJQTNTw=
 			</data>
 			<key>hash2</key>
 			<data>
-			QCEhXkY3SpDQBHZic+Ihm4peoXc3GzKffFhllIvfRTU=
+			XQ/KeY862qskOTnBdWAXyxBpJURxEpGG/rcq1SbKTTI=
 			</data>
 		</dict>
 		<key>Modules/MarqueeLabel.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WOyjnGJh3QSh+khnspoDewNbDP8=
+			VQ8eepDZ9vMsaQdcLlYDIVxj0WM=
 			</data>
 			<key>hash2</key>
 			<data>
-			jJQvdOSSwi+H7F4SwhGdroxMTSp/DlNxW5XZhCru97o=
+			+GW36nwqHbFpUsohvkzYR0HBNCoW/zBUbyxAYeHKEA0=
 			</data>
 		</dict>
 		<key>Modules/MarqueeLabel.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			N9WAVKq0ds4Dlbv3F/vCFkfffzs=
+			39UrgAxr0o5LbAGW8LVWtJQTNTw=
 			</data>
 			<key>hash2</key>
 			<data>
-			QCEhXkY3SpDQBHZic+Ihm4peoXc3GzKffFhllIvfRTU=
+			XQ/KeY862qskOTnBdWAXyxBpJURxEpGG/rcq1SbKTTI=
 			</data>
 		</dict>
 		<key>Modules/MarqueeLabel.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WOyjnGJh3QSh+khnspoDewNbDP8=
+			VQ8eepDZ9vMsaQdcLlYDIVxj0WM=
 			</data>
 			<key>hash2</key>
 			<data>
-			jJQvdOSSwi+H7F4SwhGdroxMTSp/DlNxW5XZhCru97o=
+			+GW36nwqHbFpUsohvkzYR0HBNCoW/zBUbyxAYeHKEA0=
 			</data>
 		</dict>
 		<key>Modules/MarqueeLabel.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IOxb2hh7x3+av5fAvjG1IPAcmAQ=
+			HKVYfQmK8Wilhx22Goz4GI1Iwsw=
 			</data>
 			<key>hash2</key>
 			<data>
-			LcCC1pLx8A009+G/NJmHGrRM6vkll67ePcxgtteqZbo=
+			u4NpQi4ShItxLAP8awli8aJPM9bFksWr+8MA6S++a5E=
 			</data>
 		</dict>
 		<key>Modules/MarqueeLabel.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xb5wL3DQwTmgLl4+OOA8pAoHjds=
+			rV7PVds51UV52iB3pNeNKVIf3pM=
 			</data>
 			<key>hash2</key>
 			<data>
-			XAvJ/FiAhkQql5qt9rIwjGsnT+6amYj9K3si6RNUOjI=
+			poJeTMRkJde3MAEHiSVWCJCqXJIojXNgmVA4wl5raos=
 			</data>
 		</dict>
 		<key>Modules/MarqueeLabel.swiftmodule/i386.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			IOxb2hh7x3+av5fAvjG1IPAcmAQ=
+			HKVYfQmK8Wilhx22Goz4GI1Iwsw=
 			</data>
 			<key>hash2</key>
 			<data>
-			LcCC1pLx8A009+G/NJmHGrRM6vkll67ePcxgtteqZbo=
+			u4NpQi4ShItxLAP8awli8aJPM9bFksWr+8MA6S++a5E=
 			</data>
 		</dict>
 		<key>Modules/MarqueeLabel.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xb5wL3DQwTmgLl4+OOA8pAoHjds=
+			rV7PVds51UV52iB3pNeNKVIf3pM=
 			</data>
 			<key>hash2</key>
 			<data>
-			XAvJ/FiAhkQql5qt9rIwjGsnT+6amYj9K3si6RNUOjI=
+			poJeTMRkJde3MAEHiSVWCJCqXJIojXNgmVA4wl5raos=
 			</data>
 		</dict>
 		<key>Modules/MarqueeLabel.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0NVTuNXA0Db3UcfxdMMUJOLZtd4=
+			zISVrAYjGCxntVTtCeglNoJ3p/U=
 			</data>
 			<key>hash2</key>
 			<data>
-			3lduyIfu7W43FcsgvUEFs7DsNQld5lDAQ1xzFRSmUis=
+			tnjJiUXPxitFsWFWix7ouOL6whk7o1N2vtDG+KG2eXQ=
 			</data>
 		</dict>
 		<key>Modules/MarqueeLabel.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			docAaBmivRzVxceHeEvSEuFYPf8=
+			66szu1VVei5s28C5+WtpKLXn22k=
 			</data>
 			<key>hash2</key>
 			<data>
-			1rNND5esTGasQGSXSeZsxJHFFct2lFdrSYr5Tm1/AGo=
+			x2UgV+oqG30GenwtZNW+nGKs5qloz50FVtmXtflp7lg=
 			</data>
 		</dict>
 		<key>Modules/MarqueeLabel.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			0NVTuNXA0Db3UcfxdMMUJOLZtd4=
+			zISVrAYjGCxntVTtCeglNoJ3p/U=
 			</data>
 			<key>hash2</key>
 			<data>
-			3lduyIfu7W43FcsgvUEFs7DsNQld5lDAQ1xzFRSmUis=
+			tnjJiUXPxitFsWFWix7ouOL6whk7o1N2vtDG+KG2eXQ=
 			</data>
 		</dict>
 		<key>Modules/MarqueeLabel.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			docAaBmivRzVxceHeEvSEuFYPf8=
+			66szu1VVei5s28C5+WtpKLXn22k=
 			</data>
 			<key>hash2</key>
 			<data>
-			1rNND5esTGasQGSXSeZsxJHFFct2lFdrSYr5Tm1/AGo=
+			x2UgV+oqG30GenwtZNW+nGKs5qloz50FVtmXtflp7lg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -241,6 +241,7 @@ SWIFT_CLASS("_TtC14SwiftyStoreKit23InAppReceiptVerificator")
 
 @class SKPaymentQueue;
 @class SKPaymentTransaction;
+@class NSString;
 @class SKDownload;
 @class SKPayment;
 @class SKProduct;
@@ -249,6 +250,7 @@ SWIFT_CLASS("_TtC14SwiftyStoreKit23InAppReceiptVerificator")
 SWIFT_CLASS("_TtC14SwiftyStoreKit22PaymentQueueController")
 @interface PaymentQueueController : NSObject <SKPaymentTransactionObserver>
 - (void)paymentQueue:(SKPaymentQueue * _Nonnull)queue updatedTransactions:(NSArray<SKPaymentTransaction *> * _Nonnull)transactions;
+- (void)paymentQueue:(SKPaymentQueue * _Nonnull)queue didRevokeEntitlementsForProductIdentifiers:(NSArray<NSString *> * _Nonnull)productIdentifiers;
 - (void)paymentQueue:(SKPaymentQueue * _Nonnull)queue removedTransactions:(NSArray<SKPaymentTransaction *> * _Nonnull)transactions;
 - (void)paymentQueue:(SKPaymentQueue * _Nonnull)queue restoreCompletedTransactionsFailedWithError:(NSError * _Nonnull)error;
 - (void)paymentQueueRestoreCompletedTransactionsFinished:(SKPaymentQueue * _Nonnull)queue;
@@ -267,7 +269,6 @@ SWIFT_CLASS("_TtC14SwiftyStoreKit22ProductsInfoController")
 
 
 
-@class NSString;
 
 @interface SKPaymentTransaction (SWIFT_EXTENSION(SwiftyStoreKit))
 @property (nonatomic, readonly, copy) NSString * _Nonnull debugDescription;
@@ -523,6 +524,7 @@ SWIFT_CLASS("_TtC14SwiftyStoreKit23InAppReceiptVerificator")
 
 @class SKPaymentQueue;
 @class SKPaymentTransaction;
+@class NSString;
 @class SKDownload;
 @class SKPayment;
 @class SKProduct;
@@ -531,6 +533,7 @@ SWIFT_CLASS("_TtC14SwiftyStoreKit23InAppReceiptVerificator")
 SWIFT_CLASS("_TtC14SwiftyStoreKit22PaymentQueueController")
 @interface PaymentQueueController : NSObject <SKPaymentTransactionObserver>
 - (void)paymentQueue:(SKPaymentQueue * _Nonnull)queue updatedTransactions:(NSArray<SKPaymentTransaction *> * _Nonnull)transactions;
+- (void)paymentQueue:(SKPaymentQueue * _Nonnull)queue didRevokeEntitlementsForProductIdentifiers:(NSArray<NSString *> * _Nonnull)productIdentifiers;
 - (void)paymentQueue:(SKPaymentQueue * _Nonnull)queue removedTransactions:(NSArray<SKPaymentTransaction *> * _Nonnull)transactions;
 - (void)paymentQueue:(SKPaymentQueue * _Nonnull)queue restoreCompletedTransactionsFailedWithError:(NSError * _Nonnull)error;
 - (void)paymentQueueRestoreCompletedTransactionsFinished:(SKPaymentQueue * _Nonnull)queue;
@@ -549,7 +552,6 @@ SWIFT_CLASS("_TtC14SwiftyStoreKit22ProductsInfoController")
 
 
 
-@class NSString;
 
 @interface SKPaymentTransaction (SWIFT_EXTENSION(SwiftyStoreKit))
 @property (nonatomic, readonly, copy) NSString * _Nonnull debugDescription;
