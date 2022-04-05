@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/Differentiator-Swift.h</key>
 		<data>
-		ocaPUndJ9+21ir76o985Kw2iqfk=
+		dV6nPYrNM8llkjRy6fX8c6mA+sQ=
 		</data>
 		<key>Headers/Differentiator.h</key>
 		<data>
@@ -14,79 +14,43 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		O3HgqjTa6qrUCbOmFTWhEKAvn30=
+		gVKbt6emlsTBm8D1b5CPc92RHFw=
 		</data>
 		<key>Modules/Differentiator.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		YCzJgDWshXOaUi7wdmEWiK+l1ks=
-		</data>
-		<key>Modules/Differentiator.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<data>
-		YCzJgDWshXOaUi7wdmEWiK+l1ks=
+		8hQTnULwVfB5EsospWRcrxaklTY=
 		</data>
 		<key>Modules/Differentiator.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		tmrNs2aaC4pSxdO0ZN5b/svWs2Q=
-		</data>
-		<key>Modules/Differentiator.swiftmodule/Project/i386.swiftsourceinfo</key>
-		<data>
-		tmrNs2aaC4pSxdO0ZN5b/svWs2Q=
+		HIvKNSSCevjIB9POZjtKYLmacFo=
 		</data>
 		<key>Modules/Differentiator.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		RYhJtSeQoEDGABi1wWaGtUTv9Po=
-		</data>
-		<key>Modules/Differentiator.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<data>
-		RYhJtSeQoEDGABi1wWaGtUTv9Po=
+		pogIMaJaZOCxFoHqXtFQJnP66is=
 		</data>
 		<key>Modules/Differentiator.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		i2WQY1UMtmRzeUsa8+fWXBlwF20=
+		c8WpZKIrU4Xxmh3LXC5osOHXXKI=
 		</data>
 		<key>Modules/Differentiator.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		5+UiGic7OYyJZYQ5Uivuk+Gzcs8=
-		</data>
-		<key>Modules/Differentiator.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		i2WQY1UMtmRzeUsa8+fWXBlwF20=
-		</data>
-		<key>Modules/Differentiator.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		5+UiGic7OYyJZYQ5Uivuk+Gzcs8=
+		yxOpWkKYi21XHfOKJYgEScpyz6I=
 		</data>
 		<key>Modules/Differentiator.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		soflmnmWczWEoFpwGO20rabLy3o=
+		33V43b+fNSelG+rwjj0Vem08FRc=
 		</data>
 		<key>Modules/Differentiator.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		eLd3T28FAvdzRmHLj6jl5RycIBc=
-		</data>
-		<key>Modules/Differentiator.swiftmodule/i386.swiftdoc</key>
-		<data>
-		soflmnmWczWEoFpwGO20rabLy3o=
-		</data>
-		<key>Modules/Differentiator.swiftmodule/i386.swiftmodule</key>
-		<data>
-		eLd3T28FAvdzRmHLj6jl5RycIBc=
+		udL6Mb8a+cWnOScXKTkYx30cXXY=
 		</data>
 		<key>Modules/Differentiator.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		ZtTI0jujZcWFBIvRbbLAsovPY7g=
+		MlLFrKw/vFwFe+HZ52Jdu+8L77g=
 		</data>
 		<key>Modules/Differentiator.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		mbP6p5ByZrWu4afvvSSPjV4s7t4=
-		</data>
-		<key>Modules/Differentiator.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		ZtTI0jujZcWFBIvRbbLAsovPY7g=
-		</data>
-		<key>Modules/Differentiator.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		mbP6p5ByZrWu4afvvSSPjV4s7t4=
+		ldBoqUR7zlxvl643nV6NxSlAj+U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -99,11 +63,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ocaPUndJ9+21ir76o985Kw2iqfk=
+			dV6nPYrNM8llkjRy6fX8c6mA+sQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			gIJ1T5QwN4MuXjxeNJz1jHiR29AuiOcsHDAabQlS6dI=
+			bZr56ulN674U3SF/XJkTE/J+PzrByIxUOj4E+t5LgNU=
 			</data>
 		</dict>
 		<key>Headers/Differentiator.h</key>
@@ -121,198 +85,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YCzJgDWshXOaUi7wdmEWiK+l1ks=
+			8hQTnULwVfB5EsospWRcrxaklTY=
 			</data>
 			<key>hash2</key>
 			<data>
-			q+9M+0ouxHLomBFUAFm54lejDu5q6a6PgpfbN2YQrcQ=
-			</data>
-		</dict>
-		<key>Modules/Differentiator.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			YCzJgDWshXOaUi7wdmEWiK+l1ks=
-			</data>
-			<key>hash2</key>
-			<data>
-			q+9M+0ouxHLomBFUAFm54lejDu5q6a6PgpfbN2YQrcQ=
+			jB9zjSj4DHdeHDHsdmD61/jPwQL89ctIQqBLMVFGfUM=
 			</data>
 		</dict>
 		<key>Modules/Differentiator.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tmrNs2aaC4pSxdO0ZN5b/svWs2Q=
+			HIvKNSSCevjIB9POZjtKYLmacFo=
 			</data>
 			<key>hash2</key>
 			<data>
-			/R+kBm6VrrP91g6muU+3u/uzGPuvxaJhoEJwbkQ96YQ=
-			</data>
-		</dict>
-		<key>Modules/Differentiator.swiftmodule/Project/i386.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			tmrNs2aaC4pSxdO0ZN5b/svWs2Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			/R+kBm6VrrP91g6muU+3u/uzGPuvxaJhoEJwbkQ96YQ=
+			fCqf8ma4QJ7/ug8B4UPChfQjIvWPPGZ4Dk0kZeqhBwg=
 			</data>
 		</dict>
 		<key>Modules/Differentiator.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RYhJtSeQoEDGABi1wWaGtUTv9Po=
+			pogIMaJaZOCxFoHqXtFQJnP66is=
 			</data>
 			<key>hash2</key>
 			<data>
-			yYyLJq3/oURVfn2lBx+eP3uT5sqtOLwjhmvAC/ldboA=
-			</data>
-		</dict>
-		<key>Modules/Differentiator.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			RYhJtSeQoEDGABi1wWaGtUTv9Po=
-			</data>
-			<key>hash2</key>
-			<data>
-			yYyLJq3/oURVfn2lBx+eP3uT5sqtOLwjhmvAC/ldboA=
+			Bxdg+Zgs7GmZa1vJ4zzea/y/R0LqgjuLtkoMulWBgww=
 			</data>
 		</dict>
 		<key>Modules/Differentiator.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			i2WQY1UMtmRzeUsa8+fWXBlwF20=
+			c8WpZKIrU4Xxmh3LXC5osOHXXKI=
 			</data>
 			<key>hash2</key>
 			<data>
-			WE1DGR3rdgLQ4G2uzpHrmIGseoCrtI9bYZwNBOEuLoE=
+			xyfu/3BxZL74/jdu0mrrEJufiKk+xxBM/LDG+mdCmlU=
 			</data>
 		</dict>
 		<key>Modules/Differentiator.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			5+UiGic7OYyJZYQ5Uivuk+Gzcs8=
+			yxOpWkKYi21XHfOKJYgEScpyz6I=
 			</data>
 			<key>hash2</key>
 			<data>
-			R9XOIWgNXLwIpp50UrYyV0xtKsOwAAKzXfe0gskJvHg=
-			</data>
-		</dict>
-		<key>Modules/Differentiator.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			i2WQY1UMtmRzeUsa8+fWXBlwF20=
-			</data>
-			<key>hash2</key>
-			<data>
-			WE1DGR3rdgLQ4G2uzpHrmIGseoCrtI9bYZwNBOEuLoE=
-			</data>
-		</dict>
-		<key>Modules/Differentiator.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5+UiGic7OYyJZYQ5Uivuk+Gzcs8=
-			</data>
-			<key>hash2</key>
-			<data>
-			R9XOIWgNXLwIpp50UrYyV0xtKsOwAAKzXfe0gskJvHg=
+			BWyw22A5kkKk4K4E7rqu5kk8YqD5MyxghVSlpMv0Lwk=
 			</data>
 		</dict>
 		<key>Modules/Differentiator.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			soflmnmWczWEoFpwGO20rabLy3o=
+			33V43b+fNSelG+rwjj0Vem08FRc=
 			</data>
 			<key>hash2</key>
 			<data>
-			rSJmDdTGqe0v+JzFGdpQIVd646OiUi2YTriH8dPDSpc=
+			rXND0a1dZylP7HK4PS+EuMIO525qf1WQ0W2PflKVYbs=
 			</data>
 		</dict>
 		<key>Modules/Differentiator.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			eLd3T28FAvdzRmHLj6jl5RycIBc=
+			udL6Mb8a+cWnOScXKTkYx30cXXY=
 			</data>
 			<key>hash2</key>
 			<data>
-			l9k9nq+lUp2ds4sJeChJmHcByyzf9660wJS57xjCXoY=
-			</data>
-		</dict>
-		<key>Modules/Differentiator.swiftmodule/i386.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			soflmnmWczWEoFpwGO20rabLy3o=
-			</data>
-			<key>hash2</key>
-			<data>
-			rSJmDdTGqe0v+JzFGdpQIVd646OiUi2YTriH8dPDSpc=
-			</data>
-		</dict>
-		<key>Modules/Differentiator.swiftmodule/i386.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			eLd3T28FAvdzRmHLj6jl5RycIBc=
-			</data>
-			<key>hash2</key>
-			<data>
-			l9k9nq+lUp2ds4sJeChJmHcByyzf9660wJS57xjCXoY=
+			zwls7MavHaiTuz6yOvJB0wbcM3Z5TKKd9Tz6iJEYeMs=
 			</data>
 		</dict>
 		<key>Modules/Differentiator.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ZtTI0jujZcWFBIvRbbLAsovPY7g=
+			MlLFrKw/vFwFe+HZ52Jdu+8L77g=
 			</data>
 			<key>hash2</key>
 			<data>
-			QDSuQVzM3ZStmm1HHp5flGicx1b/0uNaHktZ/iIfSOg=
+			SJVu1Ohr5U2s5fAIB6dCUW0PKpkbpwTCYMxX0ofGphM=
 			</data>
 		</dict>
 		<key>Modules/Differentiator.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mbP6p5ByZrWu4afvvSSPjV4s7t4=
+			ldBoqUR7zlxvl643nV6NxSlAj+U=
 			</data>
 			<key>hash2</key>
 			<data>
-			4qZgvlXAIJ6gsbplqyP4frYS+LBnNdk6O2YNIFaw/pU=
-			</data>
-		</dict>
-		<key>Modules/Differentiator.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZtTI0jujZcWFBIvRbbLAsovPY7g=
-			</data>
-			<key>hash2</key>
-			<data>
-			QDSuQVzM3ZStmm1HHp5flGicx1b/0uNaHktZ/iIfSOg=
-			</data>
-		</dict>
-		<key>Modules/Differentiator.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			mbP6p5ByZrWu4afvvSSPjV4s7t4=
-			</data>
-			<key>hash2</key>
-			<data>
-			4qZgvlXAIJ6gsbplqyP4frYS+LBnNdk6O2YNIFaw/pU=
+			e6lzYo4RJBQ3SfRC4q2upcAYtEfKavNBYISXa4p35fo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

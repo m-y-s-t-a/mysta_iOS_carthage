@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/Adjust.h</key>
 		<data>
-		IyKCLJtEhnhY8SBl3Fhrohq44Fs=
+		w+OvSAlQEWuT2RaJnYFyTdo1pPo=
 		</data>
 		<key>Headers/AdjustSdk.h</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7ckrypRX839PKYd5WOtOTM+VJiU=
+		gctRKim9tzSCMwmUeZsLvg5nk2A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -207,11 +207,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IyKCLJtEhnhY8SBl3Fhrohq44Fs=
+			w+OvSAlQEWuT2RaJnYFyTdo1pPo=
 			</data>
 			<key>hash2</key>
 			<data>
-			8ZUBaCK/MbVpcVk3wGmhTNAeHjrBDcK2BgRJpPOy/SQ=
+			MEUtJ/rOTTG3pq6PG0dC412WWFd3MODSOjs9LDYg/eE=
 			</data>
 		</dict>
 		<key>Headers/AdjustSdk.h</key>

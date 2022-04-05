@@ -1,11 +1,41 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)
+// swift-compiler-version: Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)
 // swift-module-flags: -target x86_64-apple-ios9.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name RxSwift
 import Darwin
 import Dispatch
 import Foundation
 import Swift
 import _Concurrency
+@available(macOS 10.15, iOS 13.0, watchOS 6.0, tvOS 13.0, *)
+extension RxSwift.PrimitiveSequenceType where Self.Trait == RxSwift.SingleTrait {
+  
+  #if compiler(>=5.3) && $EffectfulProp
+  public var value: Self.Element {
+    get async throws
+  }
+  #endif
+
+}
+@available(macOS 10.15, iOS 13.0, watchOS 6.0, tvOS 13.0, *)
+extension RxSwift.PrimitiveSequenceType where Self.Trait == RxSwift.MaybeTrait {
+  
+  #if compiler(>=5.3) && $EffectfulProp
+  public var value: Self.Element? {
+    get async throws
+  }
+  #endif
+
+}
+@available(macOS 10.15, iOS 13.0, watchOS 6.0, tvOS 13.0, *)
+extension RxSwift.PrimitiveSequenceType where Self.Element == Swift.Never, Self.Trait == RxSwift.CompletableTrait {
+  
+  #if compiler(>=5.3) && $EffectfulProp
+  public var value: Swift.Void {
+    get async throws
+  }
+  #endif
+
+}
 extension RxSwift.ObservableType {
   public func ifEmpty(switchTo other: RxSwift.Observable<Self.Element>) -> RxSwift.Observable<Self.Element>
 }
@@ -281,8 +311,8 @@ extension RxSwift.ObservableType {
   public init()
   public static let instance: RxSwift.MainScheduler
   public static let asyncInstance: RxSwift.SerialDispatchQueueScheduler
-  final public class func ensureExecutingOnScheduler(errorMessage: Swift.String? = nil)
-  final public class func ensureRunningOnMainThread(errorMessage: Swift.String? = nil)
+  public static func ensureExecutingOnScheduler(errorMessage: Swift.String? = nil)
+  public static func ensureRunningOnMainThread(errorMessage: Swift.String? = nil)
   @objc deinit
 }
 extension RxSwift.ObservableType {
@@ -447,6 +477,20 @@ extension RxSwift.ObservableType {
   public typealias Observer = RxSwift.ReplaySubject<Element>
   @objc deinit
 }
+@available(macOS 10.15, iOS 13.0, watchOS 6.0, tvOS 13.0, *)
+extension RxSwift.ObservableConvertibleType {
+  public var values: _Concurrency.AsyncThrowingStream<Self.Element, Swift.Error> {
+    get
+  }
+}
+
+#if compiler(>=5.3) && $RethrowsProtocol
+@available(macOS 10.15, iOS 13.0, watchOS 6.0, tvOS 13.0, *)
+extension _Concurrency.AsyncSequence {
+  public func asObservable() -> RxSwift.Observable<Self.Element>
+}
+#endif
+
 extension RxSwift.InfallibleType {
   public static func zip<E1, E2>(_ source1: RxSwift.Infallible<E1>, _ source2: RxSwift.Infallible<E2>, resultSelector: @escaping (E1, E2) throws -> Self.Element) -> RxSwift.Infallible<Self.Element>
 }
@@ -547,6 +591,12 @@ extension RxSwift.PrimitiveSequenceType where Self.Element == Swift.Never, Self.
   public static func zip<Collection>(_ sources: Collection) -> RxSwift.Completable where Collection : Swift.Collection, Collection.Element == RxSwift.Completable
   public static func zip(_ sources: [RxSwift.Completable]) -> RxSwift.Completable
   public static func zip(_ sources: RxSwift.Completable...) -> RxSwift.Completable
+}
+@available(macOS 10.15, iOS 13.0, watchOS 6.0, tvOS 13.0, *)
+extension RxSwift.InfallibleType {
+  public var values: _Concurrency.AsyncStream<Self.Element> {
+    get
+  }
 }
 extension RxSwift.ObservableType where Self.Element : Swift.FixedWidthInteger {
   public static func interval(_ period: RxSwift.RxTimeInterval, scheduler: RxSwift.SchedulerType) -> RxSwift.Observable<Self.Element>

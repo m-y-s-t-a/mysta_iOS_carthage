@@ -6,55 +6,31 @@
 	<dict>
 		<key>Info.plist</key>
 		<data>
-		QhedX8Turn0txegmqS8hRUzDpJo=
+		CFMO3oAOARiP5K6Ns1N9wTajCJE=
 		</data>
 		<key>Modules/Kingfisher.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		zggYUD982Owdff6Z8ap9mV+H4cY=
-		</data>
-		<key>Modules/Kingfisher.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<data>
-		zggYUD982Owdff6Z8ap9mV+H4cY=
+		bKK5qL3pKxCIBzYlxlghRDq8LdU=
 		</data>
 		<key>Modules/Kingfisher.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		wvv5yNjAmQ9n2F+A1SJlFpYxh8s=
-		</data>
-		<key>Modules/Kingfisher.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<data>
-		wvv5yNjAmQ9n2F+A1SJlFpYxh8s=
+		1QiDZcKjFESVASoVM7kB1zVkCak=
 		</data>
 		<key>Modules/Kingfisher.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		BMRFb7qwKtbxFY78e3djg0BbOWk=
+		VWXkF/we5IMMhV2ZLSZbxgLinss=
 		</data>
 		<key>Modules/Kingfisher.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tL8TFEpEwNz0mdwOTpUk+N8Xf7U=
-		</data>
-		<key>Modules/Kingfisher.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		BMRFb7qwKtbxFY78e3djg0BbOWk=
-		</data>
-		<key>Modules/Kingfisher.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		tL8TFEpEwNz0mdwOTpUk+N8Xf7U=
+		OvLxXSUgOYKW/Hc68HcfzY4ulzg=
 		</data>
 		<key>Modules/Kingfisher.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		2yFqzeASrW4pC2diNAq+5gg4vlg=
+		Sw31m5kLSNMi1M89rdP2ufmh9XA=
 		</data>
 		<key>Modules/Kingfisher.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		UogF7HEVyn1sJSFUjKadr1GECA0=
-		</data>
-		<key>Modules/Kingfisher.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		2yFqzeASrW4pC2diNAq+5gg4vlg=
-		</data>
-		<key>Modules/Kingfisher.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		UogF7HEVyn1sJSFUjKadr1GECA0=
+		72X5FGGcH4FZ2pF453tPUt1IgNM=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -63,84 +39,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NJDgnKkhGsOeoJsUnx78XD5pjMlj0sJ0okkDWanTfR4=
-			</data>
-		</dict>
-		<key>Modules/Kingfisher.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			NJDgnKkhGsOeoJsUnx78XD5pjMlj0sJ0okkDWanTfR4=
+			iTvrv+vPwqCWvdiHtvdZuyBNTWuFHT2HQ/63CorMgzU=
 			</data>
 		</dict>
 		<key>Modules/Kingfisher.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ivkNtjVwstl4lNJX5WgA4JmoHKEVrMHFGkK0aV3i4UA=
-			</data>
-		</dict>
-		<key>Modules/Kingfisher.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			ivkNtjVwstl4lNJX5WgA4JmoHKEVrMHFGkK0aV3i4UA=
+			IxkGKmHijk8arDXN8I/eVf9p5+C4f+4Wk2zTnVZ/xoE=
 			</data>
 		</dict>
 		<key>Modules/Kingfisher.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LOl9rwly/5ml2eRDCmpziA56nhr8gCvXFQ5M2TsEL2E=
+			0lrpQlr2fNsBqP6r06R/FKh+iL/FfJzZ/1zLcRXohWU=
 			</data>
 		</dict>
 		<key>Modules/Kingfisher.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uQ30ttgc9kWIf/zLJPsEeTCGfPcoHOyQb2BzXgxiNQg=
-			</data>
-		</dict>
-		<key>Modules/Kingfisher.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LOl9rwly/5ml2eRDCmpziA56nhr8gCvXFQ5M2TsEL2E=
-			</data>
-		</dict>
-		<key>Modules/Kingfisher.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			uQ30ttgc9kWIf/zLJPsEeTCGfPcoHOyQb2BzXgxiNQg=
+			SLHIHcjA8/5qWdjCdSHYEbSb8TDJgKQB+k5IpVIz5Qo=
 			</data>
 		</dict>
 		<key>Modules/Kingfisher.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HXBDULOfOVqj/E+V2csvGLMJNjIkER//MkohY4lI/Jo=
+			jzhxd2nPim8eHXvgjpvy8B+bX+dUT2VgI9n2qJRp8+M=
 			</data>
 		</dict>
 		<key>Modules/Kingfisher.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			qt60+xbvPsxmeA+dEz1Y1jn6fnVGPPD6UcgUld8znio=
-			</data>
-		</dict>
-		<key>Modules/Kingfisher.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HXBDULOfOVqj/E+V2csvGLMJNjIkER//MkohY4lI/Jo=
-			</data>
-		</dict>
-		<key>Modules/Kingfisher.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qt60+xbvPsxmeA+dEz1Y1jn6fnVGPPD6UcgUld8znio=
+			VpzeJ2HBayH5QG80m1U3KyVLLan7K0h+JJowcySKpNs=
 			</data>
 		</dict>
 	</dict>

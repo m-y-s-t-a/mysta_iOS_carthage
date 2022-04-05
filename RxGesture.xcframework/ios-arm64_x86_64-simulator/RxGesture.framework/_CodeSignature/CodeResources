@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/RxGesture-Swift.h</key>
 		<data>
-		P2RG/d8BeIBmnoaGAtT4f3NlJNo=
+		54zn/aZrNoiCecZ6BaYzswzpJjQ=
 		</data>
 		<key>Headers/RxGesture.h</key>
 		<data>
@@ -14,55 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ebs/FL5yXQMrYlLBlYnJxzZV0ok=
+		zDWPj1ak1TWnDJrbKZaUR5Ddnuc=
 		</data>
 		<key>Modules/RxGesture.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Fisb+y0syNeHwg1aX6nrgTtjzpc=
-		</data>
-		<key>Modules/RxGesture.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<data>
-		Fisb+y0syNeHwg1aX6nrgTtjzpc=
+		1I/nRlug79/MnnpRxz2ilk89Cug=
 		</data>
 		<key>Modules/RxGesture.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		VksszV/F4Nld4oGPqOQdQsgHIyQ=
-		</data>
-		<key>Modules/RxGesture.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<data>
-		VksszV/F4Nld4oGPqOQdQsgHIyQ=
+		gWJlt0eHPdRfolOiz1tSLrInzQ0=
 		</data>
 		<key>Modules/RxGesture.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		pwD/xlx8TyYAJPx1DzZ3RJNilxc=
+		VO2hf79DK59/7XbHtrwU3RjMZpQ=
 		</data>
 		<key>Modules/RxGesture.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		uWx8QGVbN499g+Vbym/MUPZOcvo=
-		</data>
-		<key>Modules/RxGesture.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		pwD/xlx8TyYAJPx1DzZ3RJNilxc=
-		</data>
-		<key>Modules/RxGesture.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		uWx8QGVbN499g+Vbym/MUPZOcvo=
+		vfO0dTy7ZRjFmGFGbCiV8+RWB48=
 		</data>
 		<key>Modules/RxGesture.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		c4Fh4/A/IulZdT30LRBTZFLTuyc=
+		w6zoP/HreTpTbSuYMU92EMX61vI=
 		</data>
 		<key>Modules/RxGesture.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		MFmyZr+/BxegJcxKjeRsGC+dPAM=
-		</data>
-		<key>Modules/RxGesture.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		c4Fh4/A/IulZdT30LRBTZFLTuyc=
-		</data>
-		<key>Modules/RxGesture.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		MFmyZr+/BxegJcxKjeRsGC+dPAM=
+		7bH3+Kv1xSoO84VxOrzPfl93cos=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -75,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			OVxKzRMXxv6XvIu1M+Tqzs+oGUHoyv3C6YURFM7z5Do=
+			KT3AoXtR+41jnidWboK/I7sdX9JEh2WbUx8Nf2534nw=
 			</data>
 		</dict>
 		<key>Headers/RxGesture.h</key>
@@ -89,84 +65,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iYHPq/0dHwfJLxN9EKpxg+8Y2zvxpZlQ9a0ci2F/s4M=
-			</data>
-		</dict>
-		<key>Modules/RxGesture.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			iYHPq/0dHwfJLxN9EKpxg+8Y2zvxpZlQ9a0ci2F/s4M=
+			cgwnqiXXoUghpQCumnco/lxFegf4rvqGCHHEudfby4U=
 			</data>
 		</dict>
 		<key>Modules/RxGesture.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GNBcT4hkERhCrnRwkD32EW9zaSAlAKeVG4cTjD3owZI=
-			</data>
-		</dict>
-		<key>Modules/RxGesture.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			GNBcT4hkERhCrnRwkD32EW9zaSAlAKeVG4cTjD3owZI=
+			lJYGegb2BF5JPB9Y6uZJB9KNrtCF6Rnhb0FPpvZq71Y=
 			</data>
 		</dict>
 		<key>Modules/RxGesture.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HzHqSQVBr4+Ap3Lus6Bmt2rP7qzMUQ1DqfUvlZW/AWA=
+			XNFgomMWGwW28ZTg0/LSrzNiZqCUMmj2QaJRSuk8J7E=
 			</data>
 		</dict>
 		<key>Modules/RxGesture.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IQN4CLzYbwj+DwQ/uD00zXGqC2MRWmJbNjLJHGb9kvU=
-			</data>
-		</dict>
-		<key>Modules/RxGesture.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HzHqSQVBr4+Ap3Lus6Bmt2rP7qzMUQ1DqfUvlZW/AWA=
-			</data>
-		</dict>
-		<key>Modules/RxGesture.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			IQN4CLzYbwj+DwQ/uD00zXGqC2MRWmJbNjLJHGb9kvU=
+			r2OyxycDps6u7M91FHW5Txt/s34KVCfZA9xLYz8GVC8=
 			</data>
 		</dict>
 		<key>Modules/RxGesture.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hbQq8b9nGlfAhviO1jGUkhecfM2qgy1PBRV+heDs4ZA=
+			lx192pCEQUGbQppHBNQqAqJNKyuB8lA5G1aHQcT/KhE=
 			</data>
 		</dict>
 		<key>Modules/RxGesture.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			I4Kgjn3Q4/lxipiNzIw/KWbXdom0EXtuL8BP11Gke28=
-			</data>
-		</dict>
-		<key>Modules/RxGesture.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hbQq8b9nGlfAhviO1jGUkhecfM2qgy1PBRV+heDs4ZA=
-			</data>
-		</dict>
-		<key>Modules/RxGesture.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			I4Kgjn3Q4/lxipiNzIw/KWbXdom0EXtuL8BP11Gke28=
+			w7A959g1xUNV37/CN5nRqrHh4GRj7kzD+NOM/HNQus8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

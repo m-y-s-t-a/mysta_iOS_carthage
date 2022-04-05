@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/KDCircularProgress-Swift.h</key>
 		<data>
-		wRcnFywTPBL+g8nx3jh1/mYr2Bg=
+		d1X8X5JF84TBi4cCzu3syvdPDGc=
 		</data>
 		<key>Headers/KDCircularProgress.h</key>
 		<data>
@@ -14,79 +14,43 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		BTQdyiYLfrKoSLnOOPxSM0dA0ZI=
+		wmLJHdOddQDQABBhr1H38XDF6Y0=
 		</data>
 		<key>Modules/KDCircularProgress.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		bhVwfQQ2bRITXICxk8czjCcVfGU=
-		</data>
-		<key>Modules/KDCircularProgress.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<data>
-		bhVwfQQ2bRITXICxk8czjCcVfGU=
+		knt06102LUuap9B/uUslwFdXpeA=
 		</data>
 		<key>Modules/KDCircularProgress.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Hq/TbpGRvXMs6ZKd/mkifHFBlbQ=
-		</data>
-		<key>Modules/KDCircularProgress.swiftmodule/Project/i386.swiftsourceinfo</key>
-		<data>
-		Hq/TbpGRvXMs6ZKd/mkifHFBlbQ=
+		F8XQ8mT+LcAQpAcLCEIUSnwGXLw=
 		</data>
 		<key>Modules/KDCircularProgress.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		arDrtEZbh2qpt7RTjvI0cf5Zvmc=
-		</data>
-		<key>Modules/KDCircularProgress.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<data>
-		arDrtEZbh2qpt7RTjvI0cf5Zvmc=
+		Iqy2XNEPdeStnXTbNk9XhJvoNY8=
 		</data>
 		<key>Modules/KDCircularProgress.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		blmB9rl3BHYdOTi3CXmpxyjuU34=
+		MtF68xwvJ4rHBBVnlujfUf4BDMs=
 		</data>
 		<key>Modules/KDCircularProgress.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		qJ5hmxDL3NH4sn2evnwk2HPN/wk=
-		</data>
-		<key>Modules/KDCircularProgress.swiftmodule/arm64.swiftdoc</key>
-		<data>
-		blmB9rl3BHYdOTi3CXmpxyjuU34=
-		</data>
-		<key>Modules/KDCircularProgress.swiftmodule/arm64.swiftmodule</key>
-		<data>
-		qJ5hmxDL3NH4sn2evnwk2HPN/wk=
+		mP0m6iwwvwc3yM/CcH3TBIu9Yfk=
 		</data>
 		<key>Modules/KDCircularProgress.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
-		gjggUjahv+MCJ4K7VjOtuoDSYkk=
+		y5OlHHrp6yxDC49cMkUEG5uvl8U=
 		</data>
 		<key>Modules/KDCircularProgress.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		yVeMfn31zskR2bjV4De3EdWk7pE=
-		</data>
-		<key>Modules/KDCircularProgress.swiftmodule/i386.swiftdoc</key>
-		<data>
-		gjggUjahv+MCJ4K7VjOtuoDSYkk=
-		</data>
-		<key>Modules/KDCircularProgress.swiftmodule/i386.swiftmodule</key>
-		<data>
-		yVeMfn31zskR2bjV4De3EdWk7pE=
+		z4kAFL2Trf6ZWNeZxIygb/82O4Y=
 		</data>
 		<key>Modules/KDCircularProgress.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		puOO01R+8VFDk5xNUzpDIQbiWG0=
+		AyMhpZa1ImOLmMuhNgCe7ke+B3A=
 		</data>
 		<key>Modules/KDCircularProgress.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4J90r8zM8XCrw76yCqewJ3Zj7xY=
-		</data>
-		<key>Modules/KDCircularProgress.swiftmodule/x86_64.swiftdoc</key>
-		<data>
-		puOO01R+8VFDk5xNUzpDIQbiWG0=
-		</data>
-		<key>Modules/KDCircularProgress.swiftmodule/x86_64.swiftmodule</key>
-		<data>
-		4J90r8zM8XCrw76yCqewJ3Zj7xY=
+		4xahotdr9MQ2I4Rk/MJuNqxN2QE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -99,11 +63,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wRcnFywTPBL+g8nx3jh1/mYr2Bg=
+			d1X8X5JF84TBi4cCzu3syvdPDGc=
 			</data>
 			<key>hash2</key>
 			<data>
-			Mh/t6E+KEcDvRRkq6HvtFUlaI4QUldUpV/fcaAONAwc=
+			hzpzdUnWqJ3KLH+LUVWrwotdckdtiiBprQcHgIf7AAw=
 			</data>
 		</dict>
 		<key>Headers/KDCircularProgress.h</key>
@@ -121,198 +85,99 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bhVwfQQ2bRITXICxk8czjCcVfGU=
+			knt06102LUuap9B/uUslwFdXpeA=
 			</data>
 			<key>hash2</key>
 			<data>
-			6y+U4SjqR4mfo+NzxAatQj+58j1ttkG3dY4v8EfZeYg=
-			</data>
-		</dict>
-		<key>Modules/KDCircularProgress.swiftmodule/Project/arm64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bhVwfQQ2bRITXICxk8czjCcVfGU=
-			</data>
-			<key>hash2</key>
-			<data>
-			6y+U4SjqR4mfo+NzxAatQj+58j1ttkG3dY4v8EfZeYg=
+			IpFZaGeV2Mt7vJRDoFleDFKmlRvBoo191nZ37x5NxWY=
 			</data>
 		</dict>
 		<key>Modules/KDCircularProgress.swiftmodule/Project/i386-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Hq/TbpGRvXMs6ZKd/mkifHFBlbQ=
+			F8XQ8mT+LcAQpAcLCEIUSnwGXLw=
 			</data>
 			<key>hash2</key>
 			<data>
-			D+M5x9JkJAevGhQK1lUhhUzwo9Zjtj+y3jyogWFGe6c=
-			</data>
-		</dict>
-		<key>Modules/KDCircularProgress.swiftmodule/Project/i386.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Hq/TbpGRvXMs6ZKd/mkifHFBlbQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			D+M5x9JkJAevGhQK1lUhhUzwo9Zjtj+y3jyogWFGe6c=
+			DWKz0UYrlGuhxvk/cL9qV6XQrReH08tDSzpY9aEEeB8=
 			</data>
 		</dict>
 		<key>Modules/KDCircularProgress.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			arDrtEZbh2qpt7RTjvI0cf5Zvmc=
+			Iqy2XNEPdeStnXTbNk9XhJvoNY8=
 			</data>
 			<key>hash2</key>
 			<data>
-			oGh3ygwT9xbCIDIYCfrLxm9X7Oyxx/YzSNNX/ln3BWg=
-			</data>
-		</dict>
-		<key>Modules/KDCircularProgress.swiftmodule/Project/x86_64.swiftsourceinfo</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			arDrtEZbh2qpt7RTjvI0cf5Zvmc=
-			</data>
-			<key>hash2</key>
-			<data>
-			oGh3ygwT9xbCIDIYCfrLxm9X7Oyxx/YzSNNX/ln3BWg=
+			36vK9/AYGM+RtNffkRJ0bPDk32/g4yx361dBezgrEAw=
 			</data>
 		</dict>
 		<key>Modules/KDCircularProgress.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			blmB9rl3BHYdOTi3CXmpxyjuU34=
+			MtF68xwvJ4rHBBVnlujfUf4BDMs=
 			</data>
 			<key>hash2</key>
 			<data>
-			9OP07gbv2e9zRVwZGNsblVUmD5zt/bd8sIRUbm4riEw=
+			hNVtjNuZyR9ggrNaAfV5JR01KSfcErl3D59cEaGHpgg=
 			</data>
 		</dict>
 		<key>Modules/KDCircularProgress.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qJ5hmxDL3NH4sn2evnwk2HPN/wk=
+			mP0m6iwwvwc3yM/CcH3TBIu9Yfk=
 			</data>
 			<key>hash2</key>
 			<data>
-			ELIwhY9mts9kO5tNcPDJC0Fy9w44zrrWn4pJdBmSB+E=
-			</data>
-		</dict>
-		<key>Modules/KDCircularProgress.swiftmodule/arm64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			blmB9rl3BHYdOTi3CXmpxyjuU34=
-			</data>
-			<key>hash2</key>
-			<data>
-			9OP07gbv2e9zRVwZGNsblVUmD5zt/bd8sIRUbm4riEw=
-			</data>
-		</dict>
-		<key>Modules/KDCircularProgress.swiftmodule/arm64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			qJ5hmxDL3NH4sn2evnwk2HPN/wk=
-			</data>
-			<key>hash2</key>
-			<data>
-			ELIwhY9mts9kO5tNcPDJC0Fy9w44zrrWn4pJdBmSB+E=
+			pCJza0JYmWzt3Nd3j71EgqZPEcoPsiDmqkvuKYYxkU8=
 			</data>
 		</dict>
 		<key>Modules/KDCircularProgress.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			gjggUjahv+MCJ4K7VjOtuoDSYkk=
+			y5OlHHrp6yxDC49cMkUEG5uvl8U=
 			</data>
 			<key>hash2</key>
 			<data>
-			MMYOQRhEMHXIh3X3FwdAX62yw34c15t7CSj+d0OJqdw=
+			I50/lOmrTywA2jgxT7uxE10fQHSHP0/XOs6vym0pFSQ=
 			</data>
 		</dict>
 		<key>Modules/KDCircularProgress.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			yVeMfn31zskR2bjV4De3EdWk7pE=
+			z4kAFL2Trf6ZWNeZxIygb/82O4Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			KxK84UgjCMRLDo3SiBILMoTMkbAl3jY/2oSlI0cf4j0=
-			</data>
-		</dict>
-		<key>Modules/KDCircularProgress.swiftmodule/i386.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			gjggUjahv+MCJ4K7VjOtuoDSYkk=
-			</data>
-			<key>hash2</key>
-			<data>
-			MMYOQRhEMHXIh3X3FwdAX62yw34c15t7CSj+d0OJqdw=
-			</data>
-		</dict>
-		<key>Modules/KDCircularProgress.swiftmodule/i386.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			yVeMfn31zskR2bjV4De3EdWk7pE=
-			</data>
-			<key>hash2</key>
-			<data>
-			KxK84UgjCMRLDo3SiBILMoTMkbAl3jY/2oSlI0cf4j0=
+			sFtJiTEK53nsCXgGcXDY46yzGocNC+H6BFysxEGlki0=
 			</data>
 		</dict>
 		<key>Modules/KDCircularProgress.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			puOO01R+8VFDk5xNUzpDIQbiWG0=
+			AyMhpZa1ImOLmMuhNgCe7ke+B3A=
 			</data>
 			<key>hash2</key>
 			<data>
-			9K5xH5ypaZgIzlYUABcKw1ocNWn+75fTcAifTwBX2BY=
+			GpqAyTL8yIax9IKoue4rzYEVfWMss5nWSNufZWFNqYU=
 			</data>
 		</dict>
 		<key>Modules/KDCircularProgress.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4J90r8zM8XCrw76yCqewJ3Zj7xY=
+			4xahotdr9MQ2I4Rk/MJuNqxN2QE=
 			</data>
 			<key>hash2</key>
 			<data>
-			abdAaY3khTlyNXW3Vr8bniWQL3Wu1ewNp+8p23J4yQA=
-			</data>
-		</dict>
-		<key>Modules/KDCircularProgress.swiftmodule/x86_64.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			puOO01R+8VFDk5xNUzpDIQbiWG0=
-			</data>
-			<key>hash2</key>
-			<data>
-			9K5xH5ypaZgIzlYUABcKw1ocNWn+75fTcAifTwBX2BY=
-			</data>
-		</dict>
-		<key>Modules/KDCircularProgress.swiftmodule/x86_64.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4J90r8zM8XCrw76yCqewJ3Zj7xY=
-			</data>
-			<key>hash2</key>
-			<data>
-			abdAaY3khTlyNXW3Vr8bniWQL3Wu1ewNp+8p23J4yQA=
+			74uiGB0pCiaZ25VwyfLfOPzUvuZGE2zYR8wOYZos4Fg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
