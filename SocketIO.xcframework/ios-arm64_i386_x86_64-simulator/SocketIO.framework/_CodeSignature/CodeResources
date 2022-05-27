@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		EsLypDuloph+2XCIymGB9mOJ9kE=
+		T9728R2yDsw5hErvdLDR3l2XkCU=
 		</data>
 		<key>Modules/SocketIO.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/SocketIO.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		k42TbDAUn3hK6sz+QKU0GAQu9+M=
+		InhHdNAh/6TNd5HktWNub8XR460=
 		</data>
 		<key>Modules/SocketIO.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/SocketIO.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Jysd2EF8wCYgLr6yR9/OVSI4PWM=
+		5ukTbf/VFMPV5fXfF0Or7aQEFqw=
 		</data>
 		<key>Modules/SocketIO.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/SocketIO.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		lkuJh8wxi014tlCxmEokVtruH2M=
+		D/VLl58apl/C72kz47O/Vge1LaA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -129,11 +129,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			k42TbDAUn3hK6sz+QKU0GAQu9+M=
+			InhHdNAh/6TNd5HktWNub8XR460=
 			</data>
 			<key>hash2</key>
 			<data>
-			+3ARLDgmxhkFn3a8fkmoi99t0vCJ8/j6W6LJFCPbqgc=
+			pSJ/mgHaDCuwC2bh5D03ysdSRi+Vke1gRGankaH1Gu8=
 			</data>
 		</dict>
 		<key>Modules/SocketIO.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -151,11 +151,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Jysd2EF8wCYgLr6yR9/OVSI4PWM=
+			5ukTbf/VFMPV5fXfF0Or7aQEFqw=
 			</data>
 			<key>hash2</key>
 			<data>
-			j1tVFpG+lmYrMg7ACa67g80FF/j/9zzAQAf+prrXv7c=
+			QzUv91WXkvOKTkCao9YUKto8m9h9YfPElYDZrSt1s6k=
 			</data>
 		</dict>
 		<key>Modules/SocketIO.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -173,11 +173,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lkuJh8wxi014tlCxmEokVtruH2M=
+			D/VLl58apl/C72kz47O/Vge1LaA=
 			</data>
 			<key>hash2</key>
 			<data>
-			t4wj10Lm7qXmsEQLwKxBG/igZ5Jebw4Bjvg68AnjbVI=
+			zMQGA0/fXQ2/zB+btG5W1/vCNnubXMxJaFDfA95En14=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

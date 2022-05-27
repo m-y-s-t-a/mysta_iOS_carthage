@@ -30,7 +30,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		jPybLof7aaIX7nV2tlDZpYNQoDQ=
+		+i3lxkOA0a5U9bqxoRAL5v3OpCo=
 		</data>
 		<key>Modules/RxCocoa.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/RxCocoa.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4YHrL1ss+/z/ut3LPopClI3h/tc=
+		igUeInEP4d2Popk4txBUeRPKHZg=
 		</data>
 		<key>Modules/RxCocoa.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Modules/RxCocoa.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		FlJsFDJ+3siuUUl6CRA0VewJMpE=
+		n6VkmtOBnFjXmRReH3RGNi9/daQ=
 		</data>
 		<key>Modules/RxCocoa.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Modules/RxCocoa.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vx7G8AwuHg1D4EcNJuS3uQoFq88=
+		Q6S4pjhTjh0etysdXHLkQMHkhR4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -212,11 +212,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4YHrL1ss+/z/ut3LPopClI3h/tc=
+			igUeInEP4d2Popk4txBUeRPKHZg=
 			</data>
 			<key>hash2</key>
 			<data>
-			7FPRBYPs8imwR1eeokTNXSjMFxJ/KDC7ootnXheBf3w=
+			s37RJMnFC2nPCbJ0KhDctvGAHlUpt/MOhg/LvxS/M/4=
 			</data>
 		</dict>
 		<key>Modules/RxCocoa.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -245,11 +245,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FlJsFDJ+3siuUUl6CRA0VewJMpE=
+			n6VkmtOBnFjXmRReH3RGNi9/daQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			limS5f5+KqLUi617QaRBLbyzp+3Br7nYV03CTysh5pE=
+			Up+F01bzUwcm5E0VsSWaiRheCYaGQye86t4C4mDMTnQ=
 			</data>
 		</dict>
 		<key>Modules/RxCocoa.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -278,11 +278,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vx7G8AwuHg1D4EcNJuS3uQoFq88=
+			Q6S4pjhTjh0etysdXHLkQMHkhR4=
 			</data>
 			<key>hash2</key>
 			<data>
-			nVfKA4RGrFvpBbhq9p+I4vX6G0OB16CNseREf62BUuM=
+			deQUv29g/+Eqrkvr4Ayb2OmBPhfIk9NKQgIDTdwn7Ik=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

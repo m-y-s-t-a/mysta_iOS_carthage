@@ -10,7 +10,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LONIWQVmEQHmMmr0kmbdLYoLKG0=
+		4p1udnD8SYaLqr/mYypdsXY4wZw=
 		</data>
 		<key>Modules/ImageViewer.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/ImageViewer.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7ycv9lYuuNOvPN4Ah9dZcrTbiJQ=
+		VmHssV9Ko/Y05XUTxhEI0OSuBhw=
 		</data>
 		<key>Modules/ImageViewer.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/ImageViewer.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		aarRJJDpTSQkXtmdx7v9G92DBDM=
+		slkyoHj3EhMfqbbte65Zb4bAcgE=
 		</data>
 		<key>Modules/ImageViewer.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/ImageViewer.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		qKAW1hI3ToQtzQfvlZYJMGrois0=
+		8m7DPd8MYePzn0pE2uKMj4Eltvk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -110,11 +110,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7ycv9lYuuNOvPN4Ah9dZcrTbiJQ=
+			VmHssV9Ko/Y05XUTxhEI0OSuBhw=
 			</data>
 			<key>hash2</key>
 			<data>
-			L3qtEFDjnt0NRHOK0QCQUnrSApbw1Cbu8SuSf/l3ScQ=
+			yXGLoIre78yApvmqpl7W/R3Hibay6KPV+o7XHAGOt0w=
 			</data>
 		</dict>
 		<key>Modules/ImageViewer.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -132,11 +132,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aarRJJDpTSQkXtmdx7v9G92DBDM=
+			slkyoHj3EhMfqbbte65Zb4bAcgE=
 			</data>
 			<key>hash2</key>
 			<data>
-			PiVKz9bSFrSBWH/y3Vsgi9qrifu+IfQ3KvAwuSHqt6k=
+			MUOWo+gBP/wAAXmcxZ5NPC0DqHF+F8dYWFlaoyc6XIQ=
 			</data>
 		</dict>
 		<key>Modules/ImageViewer.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -154,11 +154,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qKAW1hI3ToQtzQfvlZYJMGrois0=
+			8m7DPd8MYePzn0pE2uKMj4Eltvk=
 			</data>
 			<key>hash2</key>
 			<data>
-			2ZVRi8oYU2E4NmTbAR7ySDQPwrblOTeoef81U2MPK+Y=
+			8Sg/NkhIXbAgC+GMq1yzD1bUGGTqBnnrsEqGZF4xUWY=
 			</data>
 		</dict>
 	</dict>

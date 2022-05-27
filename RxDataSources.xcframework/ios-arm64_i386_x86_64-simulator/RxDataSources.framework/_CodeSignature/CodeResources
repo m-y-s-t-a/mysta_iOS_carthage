@@ -22,7 +22,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		kGsng+WsTGrVfdO8ue92/4L7NWs=
+		FLezc859+GT4S8Nyrroiqg0zGRk=
 		</data>
 		<key>Modules/RxDataSources.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/RxDataSources.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		6eVyDbcBPFrizon/lGbnEFdJ9Gk=
+		DcKgKmtlhg66EFUwpc032o2kUK0=
 		</data>
 		<key>Modules/RxDataSources.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/RxDataSources.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		X76P0KYhFvIkzo+iSJg0QXaLtQs=
+		+Ga2fV1mUVdQcnvqlupQxCNVNEo=
 		</data>
 		<key>Modules/RxDataSources.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/RxDataSources.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		M9InuzdM34Qiil4LR+FV+0yL4bU=
+		849yHWDgITuXkmlPifLZ3RWMf5I=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -159,11 +159,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6eVyDbcBPFrizon/lGbnEFdJ9Gk=
+			DcKgKmtlhg66EFUwpc032o2kUK0=
 			</data>
 			<key>hash2</key>
 			<data>
-			SbPbGmr3q5oLaLwgLObTBqR6XesqJ42C4XHK5mVh+38=
+			QyL3B3lvBj4Hbq9XWxsp/va+z/Rz40qW52VmI0Wnwas=
 			</data>
 		</dict>
 		<key>Modules/RxDataSources.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -181,11 +181,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			X76P0KYhFvIkzo+iSJg0QXaLtQs=
+			+Ga2fV1mUVdQcnvqlupQxCNVNEo=
 			</data>
 			<key>hash2</key>
 			<data>
-			At9Aher67fXMQ48vjcXprZsV2VV/+LWEiZ/5lWEmaoQ=
+			QqS67ONyU4zdbQ2u7OndJVpvIhe+VYgTF66KJJTMbVA=
 			</data>
 		</dict>
 		<key>Modules/RxDataSources.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -203,11 +203,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			M9InuzdM34Qiil4LR+FV+0yL4bU=
+			849yHWDgITuXkmlPifLZ3RWMf5I=
 			</data>
 			<key>hash2</key>
 			<data>
-			GX+ZSomztgoyGGQMPCiKDLR/Gdq1fn7rACS2yHAk6mU=
+			QTG+d6HWkWCePqihjWdMC9iMwZGjLcfb6t30/G01248=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

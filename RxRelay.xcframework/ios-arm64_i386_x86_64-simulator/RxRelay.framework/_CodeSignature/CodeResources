@@ -10,7 +10,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		tvNaYzWibxiZFMEDxiCLcx//AtU=
+		xv2xHS2Su/ROPZD0caRCbUlMzns=
 		</data>
 		<key>Modules/RxRelay.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/RxRelay.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		cywHpkmcyJ+SRbTfIKaFybcE8Hs=
+		FNG9YguJ7ruu11oVjfA95lNxLNk=
 		</data>
 		<key>Modules/RxRelay.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/RxRelay.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ScB8OwX1313v7DoZbneMui4HtSs=
+		41tvAIPKE+Rj8bODsVyROaaxGGQ=
 		</data>
 		<key>Modules/RxRelay.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/RxRelay.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4rvTYU2SQIw9O2Zm/mGfDtbbvb8=
+		uedCxWq/061TN9w/iN8AuW2NFPo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -137,11 +137,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cywHpkmcyJ+SRbTfIKaFybcE8Hs=
+			FNG9YguJ7ruu11oVjfA95lNxLNk=
 			</data>
 			<key>hash2</key>
 			<data>
-			xU9POhLb/1L+hH8NEHHEJfX7zHhMWITErIrC18kzF5Q=
+			jmGoMtFbSoFAobXcies/AKy6JF1PClvlqvW1RnRPhJ4=
 			</data>
 		</dict>
 		<key>Modules/RxRelay.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -170,11 +170,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ScB8OwX1313v7DoZbneMui4HtSs=
+			41tvAIPKE+Rj8bODsVyROaaxGGQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Z1e2c1b2dP95HFHDElYL6pGL/XQqZfetoSAncK1b+K0=
+			BUQmJ4XUmjdMaLqg8FLnYvkke6DxaLK20XdcAeqI7/k=
 			</data>
 		</dict>
 		<key>Modules/RxRelay.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -203,11 +203,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4rvTYU2SQIw9O2Zm/mGfDtbbvb8=
+			uedCxWq/061TN9w/iN8AuW2NFPo=
 			</data>
 			<key>hash2</key>
 			<data>
-			lfoe8omsMwtsaJVosqzsACBbJVVNhec1BCAec14hXrw=
+			F58FfnVMWQhyX66vCnwJmVh9ZKF6cw/muy2ictS2Vrw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

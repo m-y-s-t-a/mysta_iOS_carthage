@@ -10,7 +10,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		ZZwa/+DYLdRf7D9UKRp2I5FT99w=
+		vIEpZ4Ghtt0OajtCo8PY6z3Vvno=
 		</data>
 		<key>Modules/SwiftyStoreKit.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/SwiftyStoreKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		OVoaSyONAqnSnZiwyibDguWL1dY=
+		cXP5rjfwDnXG1RXoDxbiuTH24z4=
 		</data>
 		<key>Modules/SwiftyStoreKit.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/SwiftyStoreKit.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		n9V2mszGWhZNyQNg/z8WafuaLMA=
+		Z+tnkpYlYQ1WMCOsVqb4389Yjp0=
 		</data>
 		<key>Modules/SwiftyStoreKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/SwiftyStoreKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		eUkkxbCdsQk8bY57TaKDu23uLmA=
+		9axgdA5+Hd1Ae35jh2Gl9G+7T1Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -114,11 +114,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			OVoaSyONAqnSnZiwyibDguWL1dY=
+			cXP5rjfwDnXG1RXoDxbiuTH24z4=
 			</data>
 			<key>hash2</key>
 			<data>
-			fmH4iGvA77y+sqYMfCtDsoW7QfhAtTRoJqBnAiZo5hw=
+			dBaGceAZeN0FLxm5kndmbE5VYslzwMyOcZnOQx/OUPM=
 			</data>
 		</dict>
 		<key>Modules/SwiftyStoreKit.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -136,11 +136,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n9V2mszGWhZNyQNg/z8WafuaLMA=
+			Z+tnkpYlYQ1WMCOsVqb4389Yjp0=
 			</data>
 			<key>hash2</key>
 			<data>
-			2UB8nt1ishnDOeuw8VVjYZ7n/5BEW3jIW0/IgflJXtQ=
+			nxPdIC+5jRUKJz0Sa4yZTQn3hZ0CDP9Bny74OCP/udw=
 			</data>
 		</dict>
 		<key>Modules/SwiftyStoreKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -158,11 +158,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eUkkxbCdsQk8bY57TaKDu23uLmA=
+			9axgdA5+Hd1Ae35jh2Gl9G+7T1Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			4Cbp/qr28LqQeTJgbF5jHKEBqTjYKc33F12/I/RGAVA=
+			eDNBtxuzzsI05zPdRqRyT7DHQhszdQ43r2g5l0G1hrw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -14,7 +14,7 @@
 		</data>
 		<key>Headers/ADJConfig.h</key>
 		<data>
-		NxWu53tngu3ym0YTulcnVSerBmU=
+		yEsutUcTBRB1zjceN2m15dRx7PA=
 		</data>
 		<key>Headers/ADJEvent.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Headers/Adjust.h</key>
 		<data>
-		w+OvSAlQEWuT2RaJnYFyTdo1pPo=
+		5wEtrWNKZ66WicrKGZeVJum7x/E=
 		</data>
 		<key>Headers/AdjustSdk.h</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		gctRKim9tzSCMwmUeZsLvg5nk2A=
+		A+KbdO2H18lLTslHBXQt8ipnFCw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,11 +97,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			NxWu53tngu3ym0YTulcnVSerBmU=
+			yEsutUcTBRB1zjceN2m15dRx7PA=
 			</data>
 			<key>hash2</key>
 			<data>
-			3MEG17Hhfh1cFGQ15ERwZi08DH1cvAh1lqVVL/F0W9U=
+			vAyVzqLy+3kDphAq7yzoQiQZ81h2cEPpnAIV2z62v2o=
 			</data>
 		</dict>
 		<key>Headers/ADJEvent.h</key>
@@ -207,11 +207,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			w+OvSAlQEWuT2RaJnYFyTdo1pPo=
+			5wEtrWNKZ66WicrKGZeVJum7x/E=
 			</data>
 			<key>hash2</key>
 			<data>
-			MEUtJ/rOTTG3pq6PG0dC412WWFd3MODSOjs9LDYg/eE=
+			lxu2v5clzTztTht+96rDGA44ZS57/LqaM+f01jIGVhE=
 			</data>
 		</dict>
 		<key>Headers/AdjustSdk.h</key>

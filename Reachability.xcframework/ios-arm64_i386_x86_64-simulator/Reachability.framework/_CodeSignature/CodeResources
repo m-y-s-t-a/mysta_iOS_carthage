@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		25oXCCJrffxpdzZp09Xhfep3jdw=
+		CqSxkkqB19mVhmptD3G02yGlu0w=
 		</data>
 		<key>Modules/Reachability.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/Reachability.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ueQF+PsL4ZawF1sC1092KazjARQ=
+		eIMmK2gcKSGabmniar8y19N4ScQ=
 		</data>
 		<key>Modules/Reachability.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,7 +50,7 @@
 		</data>
 		<key>Modules/Reachability.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+DvWhRNm4TVMdx3733mNZT380os=
+		TBY998JWR0TzbgFrEeTRLF4BoKw=
 		</data>
 		<key>Modules/Reachability.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -62,7 +62,7 @@
 		</data>
 		<key>Modules/Reachability.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		TgLt4qeK00oBGo33VDIwyJk0hgo=
+		x0juTAqJPhBBa4hrInZfgvNL2xY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -152,11 +152,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ueQF+PsL4ZawF1sC1092KazjARQ=
+			eIMmK2gcKSGabmniar8y19N4ScQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			8zcHfml2zdW1EqivONdoX9m1hY5qr1r42E9TdonXFjU=
+			9gpteIR+TXPyR58kcRlXyLQ3ujqnVDv51L0jFW2dZ+0=
 			</data>
 		</dict>
 		<key>Modules/Reachability.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -185,11 +185,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+DvWhRNm4TVMdx3733mNZT380os=
+			TBY998JWR0TzbgFrEeTRLF4BoKw=
 			</data>
 			<key>hash2</key>
 			<data>
-			IjYIblipRQErgaADxVI+SGTOY8YuAcU1b0IXR18nGsk=
+			m8k+fqLxUYRNKCOwvAv48HndELJClTGdopNBUXr2xNs=
 			</data>
 		</dict>
 		<key>Modules/Reachability.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -218,11 +218,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TgLt4qeK00oBGo33VDIwyJk0hgo=
+			x0juTAqJPhBBa4hrInZfgvNL2xY=
 			</data>
 			<key>hash2</key>
 			<data>
-			XaqEYhBlv2AaycP1hQUF0FGBEla2H8dqRwlgf4wRu/8=
+			Dl68i+qgw1ZOniBv38Pfa4x70yB7BIg+246mA0x7WiI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -14,15 +14,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zDWPj1ak1TWnDJrbKZaUR5Ddnuc=
+		FWfbr0C+FO4+sSlxjIjryJ/TGIM=
 		</data>
 		<key>Modules/RxGesture.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		1I/nRlug79/MnnpRxz2ilk89Cug=
+		vkCr4ZxWnFoKh2RYAmTW3V5qLuo=
 		</data>
 		<key>Modules/RxGesture.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		gWJlt0eHPdRfolOiz1tSLrInzQ0=
+		VFveW/Tfv8mz37MH45WiIqXk5r8=
 		</data>
 		<key>Modules/RxGesture.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/RxGesture.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vfO0dTy7ZRjFmGFGbCiV8+RWB48=
+		IBXJMcU1nVf/l773QnnQ4P/APek=
 		</data>
 		<key>Modules/RxGesture.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/RxGesture.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7bH3+Kv1xSoO84VxOrzPfl93cos=
+		u843Wv9Xfsy2AKeVmW6aj0QNDZA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,14 +65,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cgwnqiXXoUghpQCumnco/lxFegf4rvqGCHHEudfby4U=
+			xP9mce+oinQiszQB+vEr8KF2y6Q85uc6oWFVL4caclo=
 			</data>
 		</dict>
 		<key>Modules/RxGesture.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lJYGegb2BF5JPB9Y6uZJB9KNrtCF6Rnhb0FPpvZq71Y=
+			YyNtjWakOBumJAWU+UP4dvwsDhsfdqCMNui7z9Jmy/o=
 			</data>
 		</dict>
 		<key>Modules/RxGesture.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -86,7 +86,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r2OyxycDps6u7M91FHW5Txt/s34KVCfZA9xLYz8GVC8=
+			1zjObjLKPccQcUvLQYAX8L9ISQLgrrejNix2X6px7QQ=
 			</data>
 		</dict>
 		<key>Modules/RxGesture.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -100,7 +100,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w7A959g1xUNV37/CN5nRqrHh4GRj7kzD+NOM/HNQus8=
+			ekH0Ox7x+OsganwVrjhD89UHOI18BK6iSQNSNhQ0H/0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
